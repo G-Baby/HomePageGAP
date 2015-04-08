@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Gabriel Perez home page</title>
+  </head>
+  <body>
+    <h1>My home page</h1>
+    <p>Wassup, My name is Gabriel Perez</p>
+    <p>I like sports so this is one of my favorite links
+      <a href="http://espn.go.com/">here</a>.</p>
+  </body>
+</html>
